@@ -1,3 +1,5 @@
 Próba Rumikuba:
 
 easiest.cpp - bez jokerów backtrack (działa fine do < 30)
+
+Lepszy może być DPek z tablicą 8 wymiarową
